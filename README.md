@@ -7,4 +7,4 @@ Es erstellt dir in Sekunden eine Liste von Buchstaben und Zahlen, die zufällig 
 - Es wurden Zahlen hinzugefügt, um die heutigen Passwort-Anforderungen zu gewährleisten.
 - Die Bindestichen wurden entfernt, um sie Sicherheit der Passwörter zu garantieren.
 - Passwörter mit 50 Zeichen können nun erstellt werden.
-- Es können werden statt 10 nun 50 Passwörter vorgeschlagen.
+- Es werden statt 10 nun 50 Passwörter vorgeschlagen.
