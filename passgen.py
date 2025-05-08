@@ -9,18 +9,18 @@ Vorschlag Nr.   Passwörter mit 50 Zeichen
 -------------------------------------------------------------------------''')
 for i in range(1, 51):
     passwd = "".join(random.choices(keygen, k=50))
-    print(f"# {i:5}       {passwd}")
+    print(f"# {i:5}         {passwd}")
 
 print('''
 Vorschlag Nr.   Passwörter mit 30 Zeichen
 -------------------------------------------------------------------------''')
 for i in range(1, 51):
     passwd = "".join(random.choices(keygen, k=30))
-    print(f"# {i:5}       {passwd}")
+    print(f"# {i:5}         {passwd}")
 
 print('''
 Vorschlag Nr.   Passwörter mit 20 Zeichen
 -------------------------------------------------------------------------''')
 for i in range(1, 51):
     passwd = "".join(random.choices(keygen, k=20))
-    print(f"# {i:5}       {passwd}")
+    print(f"# {i:5}         {passwd}")
