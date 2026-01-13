@@ -2,6 +2,10 @@
 Password-gen - Kennst du das, du bist faul, ein eigenes Passwort zu erstellen? Dann nutze Passgen!
 Es erstellt dir in Sekunden eine Liste von Buchstaben und Zahlen, die zufällig angereiht werden.
 
+# Changelog Version 2.0.0
+- Ein US-ASCII-Set wurde hinzugefügt.
+- Aus Sicherheitsgründen wurde "random.choices" mit "secrets" ausgetauscht.
+
 # Changelog Version 1.1.0
 - Der Code wurde optimiert.
 - Es wurden Zahlen hinzugefügt, um die heutigen Passwort-Anforderungen zu gewährleisten.
